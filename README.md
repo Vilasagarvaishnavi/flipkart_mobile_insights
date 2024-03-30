@@ -1,1 +1,1 @@
-This project is about which brand offers the best features in the market. The data for this project is collected from Flipkart. By utilizing web scraping, I extracted the required information from the flipkart website.
+This project is about which brand offers the best features in the marketwith the given price range. The data for this project is collected from Flipkart. By utilizing web scraping, I extracted the required information from the flipkart website.
